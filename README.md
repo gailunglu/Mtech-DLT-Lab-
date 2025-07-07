@@ -4,4 +4,4 @@ All the DLT lab experiment codes
 
 From expt-1 to expt-10
 
-Used aGoogle colab to run
+Used Google colab to run
